@@ -183,3 +183,10 @@ This dashboard can be used by:
 
 ---
 
+## 👨‍💻 Author
+
+**Krushnakant Patil**
+
+---
+
+⭐ If you found this project useful, consider giving it a **Star** on GitHub.
